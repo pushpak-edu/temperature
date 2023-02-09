@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/temperature/static/css/main.81e6fef5.chunk.css",
+    "main.js": "/temperature/static/js/main.0a1f7b15.chunk.js",
+    "main.js.map": "/temperature/static/js/main.0a1f7b15.chunk.js.map",
+    "runtime~main.js": "/temperature/static/js/runtime~main.4141a3e5.js",
+    "runtime~main.js.map": "/temperature/static/js/runtime~main.4141a3e5.js.map",
+    "static/js/2.6f4f9af9.chunk.js": "/temperature/static/js/2.6f4f9af9.chunk.js",
+    "static/js/2.6f4f9af9.chunk.js.map": "/temperature/static/js/2.6f4f9af9.chunk.js.map",
+    "index.html": "/temperature/index.html",
+    "precache-manifest.a29e77740243316fa846035bba49d438.js": "/temperature/precache-manifest.a29e77740243316fa846035bba49d438.js",
+    "service-worker.js": "/temperature/service-worker.js",
+    "static/css/main.81e6fef5.chunk.css.map": "/temperature/static/css/main.81e6fef5.chunk.css.map"
+  }
+}
